@@ -51,7 +51,7 @@
             Data Sources
           </b-dropdown-item>
 
-          <b-dropdown-item to="/sources">
+          <b-dropdown-item href="https://api.monarchinitiative.org/api/" target="_blank">
             Monarch API
           </b-dropdown-item>
 
