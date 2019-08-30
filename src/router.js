@@ -76,6 +76,11 @@ const router = new Router({
       component: require('@/views/LinkToUs.md').default
     },
     {
+      path: '/help/licensing',
+      name: 'licensing',
+      component: require('@/views/Licensing.md').default
+    },
+    {
       path: '/help/contact',
       name: 'contact-us',
       component: require('@/views/Contact.md').default
